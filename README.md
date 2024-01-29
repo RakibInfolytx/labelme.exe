@@ -5,7 +5,7 @@ https://github.com/labelmeai/labelme/releases
 
 - labelme-Linux
 - labelme-macOS
+- Labelme.exe-Windows
 - Labelme.dmg
-- Labelme.exe
 - Source code
 - Source code
